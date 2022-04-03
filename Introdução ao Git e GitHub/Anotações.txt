@@ -1,0 +1,9 @@
+Comandos básicos do Git
+
+- cd Navegar entre as pastas
+- cd... Voltar
+- mkdir criar pasta
+- dir listar pastas.
+- Limpar terminal ctrl + L
+
+Tab - alto completar
